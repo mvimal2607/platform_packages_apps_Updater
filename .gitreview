@@ -1,5 +1,0 @@
-[gerrit]
-host=review.calyxos.org
-port=29418
-project=CalyxOS/platform_packages_apps_Updater
-defaultbranch=android15-qpr2
